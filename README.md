@@ -19,4 +19,4 @@ Task 3 — Energy Forecasting (task3_energy_forecasting.ipynb)
 Parses and resamples the UCI Household Power Consumption dataset to hourly
 Engineers lag features (1h, 24h, 168h), rolling stats, and time-based features
 Trains and compares ARIMA, Prophet, and XGBoost
-Evaluates with MAE & RMSE, and plots actual vs. forecasted for all 3 models
+Evaluates with MAE & RMSE, and plots actual vs. forecasted for all 3 models.
